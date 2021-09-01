@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test 1" max_length="40" name="x_297985_ingram_te_test_1" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Location ID" max_length="40" name="location_id" type="string"/>
+    </element>
+</database>

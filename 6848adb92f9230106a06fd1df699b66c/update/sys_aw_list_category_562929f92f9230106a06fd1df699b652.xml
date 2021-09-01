@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list_category">
+    <sys_aw_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_aw_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-31 14:02:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>562929f92f9230106a06fd1df699b652</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test 1s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Ingram Test 1" source="x_297985_ingram_te">6848adb92f9230106a06fd1df699b66c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ingram Test 1">6848adb92f9230106a06fd1df699b66c</sys_scope>
+        <sys_update_name>sys_aw_list_category_562929f92f9230106a06fd1df699b652</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-31 14:02:01</sys_updated_on>
+        <title>Test 1s</title>
+        <workspace display_value="Ingram Test 1">a929e9b92f9230106a06fd1df699b6e5</workspace>
+    </sys_aw_list_category>
+</record_update>

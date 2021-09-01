@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="location_id" label="Location ID" language="en" table="x_297985_ingram_te_test_1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>location_id</element>
+            <help/>
+            <hint/>
+            <label>Location ID</label>
+            <language>en</language>
+            <name>x_297985_ingram_te_test_1</name>
+            <plural>Location IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-31 14:01:17</sys_created_on>
+            <sys_id>ebf8e5f92f9230106a06fd1df699b6cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Location ID</sys_name>
+            <sys_package display_value="Ingram Test 1" source="x_297985_ingram_te">6848adb92f9230106a06fd1df699b66c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ingram Test 1">6848adb92f9230106a06fd1df699b66c</sys_scope>
+            <sys_update_name>sys_documentation_x_297985_ingram_te_test_1_location_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-31 14:01:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

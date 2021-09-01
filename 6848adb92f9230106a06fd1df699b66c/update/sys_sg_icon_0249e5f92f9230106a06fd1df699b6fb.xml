@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home Ingram Test 1</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-31 14:02:33</sys_created_on>
+        <sys_id>0249e5f92f9230106a06fd1df699b6fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Ingram Test 1</sys_name>
+        <sys_package display_value="Ingram Test 1" source="x_297985_ingram_te">6848adb92f9230106a06fd1df699b66c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ingram Test 1">6848adb92f9230106a06fd1df699b66c</sys_scope>
+        <sys_update_name>sys_sg_icon_0249e5f92f9230106a06fd1df699b6fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-31 14:02:33</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>

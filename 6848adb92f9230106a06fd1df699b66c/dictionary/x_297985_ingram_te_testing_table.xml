@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="testing table" max_length="40" name="x_297985_ingram_te_testing_table" type="collection">
+        <element label="test" max_length="40" name="test" type="string"/>
+    </element>
+</database>
