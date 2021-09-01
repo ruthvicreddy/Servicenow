@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Ingram Test 1">e129e9b92f9230106a06fd1df699b6e6</compiled_page_registry>
+        <description/>
+        <global_search display_value="Workspace search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Ingram Test 1 Search Context Config">a929e9b92f9230106a06fd1df699b6e3</global_search_data>
+        <hide_search_results_count>false</hide_search_results_count>
+        <name>Ingram Test 1</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-31 14:01:58</sys_created_on>
+        <sys_id>a929e9b92f9230106a06fd1df699b6e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ingram Test 1</sys_name>
+        <sys_package display_value="Ingram Test 1" source="x_297985_ingram_te">6848adb92f9230106a06fd1df699b66c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ingram Test 1">6848adb92f9230106a06fd1df699b66c</sys_scope>
+        <sys_update_name>sys_aw_master_config_a929e9b92f9230106a06fd1df699b6e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-31 14:01:58</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>ingram_test_1</workspace_url>
+    </sys_aw_master_config>
+</record_update>

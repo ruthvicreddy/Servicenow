@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>a929e9b92f9230106a06fd1df699b6e5</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <auth_routes/>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/ingram_test_1</path>
+        <root_macroponent/>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-31 14:01:58</sys_created_on>
+        <sys_id>e129e9b92f9230106a06fd1df699b6e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ingram Test 1</sys_name>
+        <sys_package display_value="Ingram Test 1" source="x_297985_ingram_te">6848adb92f9230106a06fd1df699b66c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ingram Test 1">6848adb92f9230106a06fd1df699b66c</sys_scope>
+        <sys_update_name>sys_ux_page_registry_e129e9b92f9230106a06fd1df699b6e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-31 14:01:58</sys_updated_on>
+        <title>Ingram Test 1</title>
+    </sys_ux_page_registry>
+</record_update>
